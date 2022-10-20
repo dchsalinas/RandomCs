@@ -1,5 +1,5 @@
 //Diana Salinas
-//Programming Assignment 1
+//Cipher 
 //  to run program, just use:
 //  g++ -o PA1a PA1a.cpp
 //  and then:
